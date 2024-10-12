@@ -125,8 +125,10 @@ main{
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     min-height: 70px;
-    background-color: #6b727a;
     color: #ffffff;
+    background: rgba(29, 29, 29, 0.3);
+    
+    
     
     transition: 0.2s ease-in-out;
 
@@ -143,5 +145,6 @@ main{
 }
 
 .list .pokedev.active{
-    background-color: #fa6668;
+    background-color: #e70e02;
+    
 }
