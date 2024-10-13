@@ -1,2 +1,2 @@
 # Projeto Pokedevs
- Projeto feito o Evento "Do Zero ao Programador Contratado"
+ Projeto feito durante o Evento "Do Zero ao Programador Contratado"
